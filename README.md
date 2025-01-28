@@ -1,0 +1,1 @@
+This repository contains a Python code example showcasing an uncommon error scenario involving type errors during division. The code includes error handling for both TypeError and ZeroDivisionError exceptions.  The bugSolution.py file provides a more robust solution.
